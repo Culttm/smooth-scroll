@@ -1,0 +1,17 @@
+{
+  "name": "smoothscroll-culttm",
+  "version": "0.1.0",
+  "main": "SmothScroll.js",
+  "homepage": "https://github.com/Culttm/smoothScroll",
+  "authors": [
+    "Culttm <culttm@gmail.com>"
+  ],
+  "license": "MIT",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ]
+}
